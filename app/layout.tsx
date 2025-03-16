@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "GitHub Clone",
   description: "A GitHub clone built with Next.js and Tailwind CSS",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
